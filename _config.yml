@@ -1,4 +1,6 @@
 title: "SLR studies per country"
+url: "https://mikamichiels.github.io"
+baseurl: "/CookingMap"
 data: "/map-data/studies.csv"
 lat: "lat"
 lon: "lon"
