@@ -1,0 +1,29 @@
+iso3,country,n_studies,region,lat,lon,title,NAMES_STD,idx,rg
+BEN,Benin,2,Africa,52,-176,Benin (2 studies),Benin,1,1
+BWA,Botswana,1,Africa,52,-172,Botswana (1 studies),Botswana,2,1
+BFA,Burkina Faso,2,Africa,52,-168,Burkina Faso (2 studies),Burkina Faso,3,1
+CMR,Cameroon,6,Africa,52,-164,Cameroon (6 studies),Cameroon,4,1
+ETH,Ethiopia,9,Africa,52,-160,Ethiopia (9 studies),Ethiopia,5,1
+GHA,Ghana,25,Africa,52,-156,Ghana (25 studies),Ghana,6,1
+KEN,Kenya,5,Africa,52,-152,Kenya (5 studies),Kenya,7,1
+LSO,Lesotho,3,Africa,52,-148,Lesotho (3 studies),Lesotho,8,1
+MWI,Malawi,3,Africa,52,-144,Malawi (3 studies),Malawi,9,1
+MOZ,Mozambique,6,Africa,52,-140,Mozambique (6 studies),Mozambique,10,1
+NGA,Nigeria,15,Africa,52,-136,Nigeria (15 studies),Nigeria,11,1
+RWA,Rwanda,5,Africa,52,-132,Rwanda (5 studies),Rwanda,12,1
+TZA,Tanzania,10,Africa,52,-128,Tanzania (10 studies),Tanzania,13,1
+UGA,Uganda,3,Africa,52,-124,Uganda (3 studies),Uganda,14,1
+BRA,Brazil,1,Americas,44,-176,Brazil (1 studies),Brazil,1,2
+ECU,Ecuador,1,Americas,44,-172,Ecuador (1 studies),Ecuador,2,2
+GTM,Guatemala,2,Americas,44,-168,Guatemala (2 studies),Guatemala,3,2
+HND,Honduras,1,Americas,44,-164,Honduras (1 studies),Honduras,4,2
+PER,Peru,5,Americas,44,-160,Peru (5 studies),Peru,5,2
+BGD,Bangladesh,2,Asia,36,-176,Bangladesh (2 studies),Bangladesh,1,3
+BTN,Bhutan,4,Asia,36,-172,Bhutan (4 studies),Bhutan,2,3
+CHN,China,25,Asia,36,-168,China (25 studies),China,3,3
+IND,India,41,Asia,36,-164,India (41 studies),India,4,3
+IDN,Indonesia,3,Asia,36,-160,Indonesia (3 studies),Indonesia,5,3
+MMR,Myanmar,1,Asia,36,-156,Myanmar (1 studies),Myanmar,6,3
+NPL,Nepal,5,Asia,36,-152,Nepal (5 studies),Nepal,7,3
+PAK,Pakistan,8,Asia,36,-148,Pakistan (8 studies),Pakistan,8,3
+LKA,Sri Lanka,2,Asia,36,-144,Sri Lanka (2 studies),Sri Lanka,9,3
