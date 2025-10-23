@@ -1,23 +1,8 @@
-title: "Clean Cooking SLR Map"
-description: "Systematic review of clean cooking adoption studies — interactive evidence map."
-
-baseurl: "/thalloo-starter" # the subpath of your site, e.g. /blog
-url: "http://acm.im" # the base hostname & protocol for your site
-ownername: "Your Website Name"
-ownerurl: "https://your.website.url"
-
-# Internal configuration
-plugins:
-  - jekyll-remote-theme
-remote_theme: AndrewIOM/thalloo
-markdown: kramdown
-collections:
-  maps:
-    output: true
-    permalink: /:path/
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
+title: "SLR studies per country"
+data: "/map-data/studies.csv"
+lat: "lat"
+lon: "lon"
+size: "n_studies"
+popup: "title"
+colorby: "region"     # optional; shows different colors by UN region
+cluster: true         # optional; cluster markers if many overlap
