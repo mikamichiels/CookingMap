@@ -8,3 +8,7 @@ size: "n_studies"
 popup: "title"
 colorby: "region"     # optional; shows different colors by UN region
 cluster: true         # optional; cluster markers if many overlap
+collections:
+  maps:
+    output: true
+    permalink: /maps/:name/
