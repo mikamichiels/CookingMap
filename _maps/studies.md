@@ -1,3 +1,4 @@
+---
 layout: map
 title: "SLR studies per country"
 description: "Each bubble represents one or more studies from the systematic review. Size = number of studies, color = UN region."
@@ -8,3 +9,4 @@ size: "n_studies"
 popup: "title"
 colorby: "region"
 cluster: true
+---
