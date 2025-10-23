@@ -1,14 +1,15 @@
-title: "SLR studies per country"
+title: "CookingMap"
 url: "https://mikamichiels.github.io"
 baseurl: "/CookingMap"
-data: "/map-data/studies.csv"
-lat: "lat"
-lon: "lon"
-size: "n_studies"
-popup: "title"
-colorby: "region"     # optional; shows different colors by UN region
-cluster: true         # optional; cluster markers if many overlap
+
+# Load the Thalloo theme remotely
+remote_theme: AndrewIOM/thalloo-starter
+plugins:
+  - jekyll-remote-theme
+
+# Make the maps collection build actual pages
 collections:
   maps:
     output: true
     permalink: /maps/:name/
+
